@@ -16,5 +16,5 @@ Python | Node.js | React | Go
 
 ## 📊 Статистика
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FLEXXAT&show_icons=true&theme=default)](https://github.com/FLEXXAT)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FLEXXAT&layout=compact)](https://github.com/FLEXXAT)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FLEXXAT&show_icons=true&theme=dark)](https://github.com/FLEXXAT)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FLEXXAT&layout=compact&theme=dark)](https://github.com/FLEXXAT)
